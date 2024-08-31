@@ -76,6 +76,32 @@ My goal is to become one of the top Python backend developers in the world, and 
 
 📂 **Code:** [Python-Lessons/Basics/01_Lessons/Day3](Basics/01_Lessons/Day3) [Python-Lessons/Basics/02_Exercises/Day3](Basics/02_Exercises/Day3)
 
+### **Day 4 – 31 Aug 2025**
+**Topics Covered**
+- Strings (Basics)
+- Looping through strings
+- Membership operator usage with strings
+- Slicing strings
+- Modifying strings
+- Concatenation of strings
+- String formatting
+- Escape characters
+- String methods
+
+**Exercises Completed**
+1. Count vowels and consonants in a given string
+2. Replace all spaces with “-” without using .replace()
+3. Count words in a sentence (without .split() counting)
+4. Reverse each word in a sentence without changing word order
+5. Find frequency of each character in a string
+6. Remove duplicates from a string while keeping order
+7. Check palindrome
+8. Capitalize first letter of each word without using .title()
+9. Check if two strings are anagrams of each other
+10. Find the longest word in a sentence
+
+📂 **Code:** [Python-Lessons/Basics/01_Lessons/Day4](Basics/01_Lessons/Day4) [Python-Lessons/Basics/02_Exercises/Day4](Basics/02_Exercises/Day4)
+
 ---
 
 ## 🏋️ Practice-Only Days Log
