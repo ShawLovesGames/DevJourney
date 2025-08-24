@@ -1,6 +1,6 @@
-# 🚀 DevJourney
+# 🐍 Python Lessons
 
-Welcome to my public coding journey!  
+Welcome to my public python-learning journey!  
 My goal is to become one of the top Python backend developers in the world, and I’m documenting **every single day** of my progress here.  
 
 ---
@@ -37,12 +37,6 @@ My goal is to become one of the top Python backend developers in the world, and 
 - Python 🐍
 - Git & GitHub
 - VS Code
-
----
-
-## 📌 How to Follow My Journey
-- ⭐ Star this repo to keep track of my progress.
-- 📬 Feel free to share suggestions or tips.
 
 ---
 

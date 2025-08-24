@@ -39,6 +39,12 @@ I plan to update this repo regularly as I learn new concepts and complete projec
 
 ---
 
+## 📌 How to Follow My Journey
+- ⭐ Star this repo to keep track of my progress.
+- 📬 Feel free to share suggestions or tips.
+
+---
+
 Thank you for stopping by! Let’s grow together. 🌱
 
 ---
