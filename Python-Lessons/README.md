@@ -8,7 +8,7 @@ My goal is to become one of the top Python backend developers in the world, and 
 ## 📅 Progress Log
 
 ### **Day 1 — 23 Aug 2025**
-**Topics Learned**  
+**Topics Covered**  
 - Python basics
 - Variables & data types
 - Operators
@@ -23,7 +23,34 @@ My goal is to become one of the top Python backend developers in the world, and 
 4. Square & cube of a number
 5. Kilometers → Miles converter
 
-📂 **Code:** [Python/Basics/Day1](Python/Basics/Day1)
+📂 **Code:** [Python-Lessons/Basics/Day1](Python-Lessons/Basics/Day1) [Python-Lessons/Basics/Exercises/Day1](Python-Lessons/Basics/Exercises/Day1)
+
+
+### **Day 2 – 24 Aug 2025**
+**Topics Covered**
+- If, Else, Elif statements
+- Nested If statements
+- Ternary operators (conditional expressions)
+- Logical operators in conditions (and, or, is)
+- Membership operators in conditions (in, not in)
+- Pass statement in conditionals
+- Chained comparisons
+- Truthy and Falsey values
+
+**Exercises Completed**
+1. Check if a number is positive, negative, or zero
+2. Check if a string contains the letter "a"
+3. Check if a number is even or odd
+4. Voting eligibility based on age
+5. Divisibility check by 3 and 5
+6. Vowel or consonant check
+7. Find the largest of three numbers without logical operators
+8. Leap year check
+9. Grading system based on marks
+10. Username and password verification
+11. Voting eligibility based on age and nationality
+
+📂 **Code:** [Python-Lessons/Basics/Day2](Python-Lessons/Basics/Day2) [Python-Lessons/Basics/Exercises/Day2](Python-Lessons/Basics/Exercises/Day2)
 
 ---
 

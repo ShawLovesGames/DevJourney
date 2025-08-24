@@ -1,4 +1,4 @@
-# Learning Variables
+# ---Learning Variables---
 
 # Variables are names of memory location used to store a value and access the value to perform various operations or tasks.
 name = "Akshat Shaw" # Name variable containing String value
@@ -7,14 +7,14 @@ marks = 85.5 # Marks variable containing Float value
 isAdult = True # isAdult variable containing boolean value
 friends = None # Friends variable containing none type value
 
-# Printing the variables
+# ---Printing the variables---
 print(name)
 print(age)
 print(marks)
 print(isAdult)
 print(friends)
 
-# Printing the types of the variables
+# ---Printing the types of the variables---
 print(type(name))
 print(type(age))
 print(type(marks))

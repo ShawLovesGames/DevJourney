@@ -1,4 +1,5 @@
-# Program to input two numbers and performing addition, subtraction, multiplication and division operations on them.
+# ---Program to input two numbers and performing addition, subtraction, multiplication and division operations on them---
+
 num1 = int(input("Enter first number: "))
 num2 = int(input("Enter second number: "))
 sum = num1 + num2 # Addition
