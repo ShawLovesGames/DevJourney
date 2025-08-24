@@ -23,7 +23,7 @@ My goal is to become one of the top Python backend developers in the world, and 
 4. Square & cube of a number
 5. Kilometers → Miles converter
 
-📂 **Code:** [Python-Lessons/Basics/Day1](Python-Lessons/Basics/Day1) [Python-Lessons/Basics/Exercises/Day1](Python-Lessons/Basics/Exercises/Day1)
+📂 **Code:** [Python-Lessons/Basics/Day1](Basics/Day1) [Python-Lessons/Basics/Exercises/Day1](Basics/Exercises/Day1)
 
 
 ### **Day 2 – 24 Aug 2025**
@@ -50,7 +50,7 @@ My goal is to become one of the top Python backend developers in the world, and 
 10. Username and password verification
 11. Voting eligibility based on age and nationality
 
-📂 **Code:** [Python-Lessons/Basics/Day2](Python-Lessons/Basics/Day2) [Python-Lessons/Basics/Exercises/Day2](Python-Lessons/Basics/Exercises/Day2)
+📂 **Code:** [Python-Lessons/Basics/Day2](Basics/Day2) [Python-Lessons/Basics/Exercises/Day2](Basics/Exercises/Day2)
 
 ---
 
