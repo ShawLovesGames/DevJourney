@@ -9,7 +9,7 @@ My goal is to become a high skilled developer.
 
 This repo is organized by programming languages and technologies. Each language or skill will have its own folder, containing code examples, notes, exercises, and related resources.
 
-- **Python/** — This folder focuses on Python basics and advanced topics. It has its own dedicated README with more details.
+- **Python-Lessons/** — This folder focuses on Python basics and advanced topics. It has its own dedicated README with more details.
 - *(Other folders to come as I continue learning — like Java, JavaScript, C++, and more)*
 
 ---
@@ -35,7 +35,13 @@ The goal of this repo is to:
 
 ## 📅 Updates
 
-I plan to update this repo regularly as I learn new concepts and complete projects.
+- Latest :- Currently on day 3 of learning python. Studied all about loops today and solved questions. Took more time to solve questions than understand loops.
+
+---
+## 📝 Note
+
+- I do not copy any code from any source or AI when I am learning a language. Every line of code and comment is written by me by myself.
+- I do all exercises by myself and only sometimes ask either my seniors or chatGPT to explain me the logic when I feel stuck. After understanding the logic I write the syntax myself to implement what I understood.
 
 ---
 
@@ -49,4 +55,5 @@ Thank you for stopping by! Let’s grow together. 🌱
 
 ---
 
-*— [Akshat Shaw]*  
+*— [Akshat Shaw]* 
+ 

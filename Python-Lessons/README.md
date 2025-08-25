@@ -1,7 +1,7 @@
 # 🐍 Python Lessons
 
 Welcome to my public python-learning journey!  
-My goal is to become one of the top Python backend developers in the world, and I’m documenting **every single day** of my progress here.  
+My goal is to become one of the top Python backend developers in the world, and I’m documenting **every single day** of my progress here.
 
 ---
 
@@ -51,6 +51,32 @@ My goal is to become one of the top Python backend developers in the world, and 
 11. Voting eligibility based on age and nationality
 
 📂 **Code:** [Python-Lessons/Basics/Day2](Basics/Day2) [Python-Lessons/Basics/Exercises/Day2](Basics/Exercises/Day2)
+
+
+### **Day 3 – 25 Aug 2025**
+**Topics Covered**
+- Loops (while, for)
+- Nested loops
+- Break, continue, pass
+- Else with loops
+- Range function
+
+**Exercises Completed**
+1. Print Hello 10 times with loops
+2. Print numbers using for
+3. Print all even numbers till 50
+4. Print multiplication table of 7
+5. Print factorial of a given number
+6. Print numbers till 50 skipping all multiples of 5
+7. Use break statement to end a for loop
+8. Check if a number is prime.
+9. Reverse and print the digits of a 4 digit number
+10. Print an right angle triangle using star pattern
+11. Print the day from a given number using match
+12. Print all prime number from range 1 to 100
+13. Print the tables of given numbers in a row & column pattern
+
+📂 **Code:** [Python-Lessons/Basics/Day4](Basics/Day3) [Python-Lessons/Basics/Exercises/Day4](Basics/Exercises/Day3)
 
 ---
 
