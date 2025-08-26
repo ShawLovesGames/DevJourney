@@ -76,7 +76,20 @@ My goal is to become one of the top Python backend developers in the world, and 
 12. Print all prime number from range 1 to 100
 13. Print the tables of given numbers in a row & column pattern
 
-📂 **Code:** [Python-Lessons/Basics/Day4](Basics/Day3) [Python-Lessons/Basics/Exercises/Day4](Basics/Exercises/Day3)
+📂 **Code:** [Python-Lessons/Basics/Day3](Basics/Day3) [Python-Lessons/Basics/Exercises/Day3](Basics/Exercises/Day3)
+
+
+### **Date - 26 Aug 2025**
+- Sick day! I have a fever and headache today
+- No new topics today
+- I will revise what I've learned till now and solve a few questions
+- Didn't create a Day 4 folder and added these exercises to Day 3
+
+**Exercises Completed**
+1. Print first N palindrome numbers
+2. Print an right angle triangle using positive integers
+
+📂 **Code:** [Python-Lessons/Basics/Exercises/Day3](Basics/Exercises/Day3)
 
 ---
 
