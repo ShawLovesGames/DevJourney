@@ -84,6 +84,7 @@ My goal is to become one of the top Python backend developers in the world, and 
 - No new topics today
 - I will revise what I've learned till now and solve a few questions
 - Didn't create a Day 4 folder and added these exercises to Day 3
+- Solving two simple problems today took me about 20-25 mins each
 
 **Exercises Completed**
 1. Print first N palindrome numbers
