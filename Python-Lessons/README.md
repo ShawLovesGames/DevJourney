@@ -23,7 +23,7 @@ My goal is to become one of the top Python backend developers in the world, and 
 4. Square & cube of a number
 5. Kilometers → Miles converter
 
-📂 **Code:** [Python-Lessons/Basics/Day1](Basics/Day1) [Python-Lessons/Basics/Exercises/Day1](Basics/Exercises/Day1)
+📂 **Code:** [Python-Lessons/Basics/01_Lessons/Day1](Basics/01_Lessons/Day1) [Python-Lessons/Basics/Exercises/Day1](Basics/Exercises/Day1)
 
 
 ### **Day 2 – 24 Aug 2025**
@@ -50,7 +50,7 @@ My goal is to become one of the top Python backend developers in the world, and 
 10. Username and password verification
 11. Voting eligibility based on age and nationality
 
-📂 **Code:** [Python-Lessons/Basics/Day2](Basics/Day2) [Python-Lessons/Basics/Exercises/Day2](Basics/Exercises/Day2)
+📂 **Code:** [Python-Lessons/Basics/01_Lessons/Day2](Basics/01_Lessons/Day2) [Python-Lessons/Basics/Exercises/Day2](Basics/Exercises/Day2)
 
 
 ### **Day 3 – 25 Aug 2025**
@@ -76,7 +76,7 @@ My goal is to become one of the top Python backend developers in the world, and 
 12. Print all prime number from range 1 to 100
 13. Print the tables of given numbers in a row & column pattern
 
-📂 **Code:** [Python-Lessons/Basics/Day3](Basics/Day3) [Python-Lessons/Basics/Exercises/Day3](Basics/Exercises/Day3)
+📂 **Code:** [Python-Lessons/Basics/01_Lessons/Day3](Basics/01_Lessons/Day3) [Python-Lessons/Basics/Exercises/Day3](Basics/Exercises/Day3)
 
 
 ### **Date - 26 Aug 2025**
@@ -95,7 +95,7 @@ My goal is to become one of the top Python backend developers in the world, and 
 
 ### **Date - 27 Aug 2025**
 - Still recovering. Did 6 exercises today and revised a little
-- Created a /randomDays/ folder which will be used when I only do questions to keep track of days
+- Created a /randomDays/ folder (lazy I know, will change later) which will be used when I only do questions to keep track of days
 
 **Exercises Completed**
 1. Print the sum of first N numbers
