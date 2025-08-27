@@ -90,7 +90,22 @@ My goal is to become one of the top Python backend developers in the world, and 
 1. Print first N palindrome numbers
 2. Print an right angle triangle using positive integers
 
-📂 **Code:** [Python-Lessons/Basics/Exercises/Day3](Basics/Exercises/Day3)
+📂 **Code:** [Python-Lessons/Basics/Exercises/randomDays](Basics/Exercises/randomDays)
+
+
+### **Date - 27 Aug 2025**
+- Still recovering. Did 6 exercises today and revised a little
+- Created a /randomDays/ folder which will be used when I only do questions to keep track of days
+
+**Exercises Completed**
+1. Print the sum of first N numbers
+2. Print the multiplication table for a given number till a given limit
+3. WAP to count how many digits are in a given number without converting it to a string
+4. Print the sum of digits of a number without converting it to a string
+5. WAP to check if a given number is an armstrong number
+6. Write a program to check if a number is a perfect number
+
+📂 **Code:** [Python-Lessons/Basics/Exercises/randomDays](Basics/Exercises/randomDays)
 
 ---
 
