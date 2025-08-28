@@ -35,9 +35,7 @@ The goal of this repo is to:
 
 ## 📅 Updates
 
-- 25 Aug 2025 :- Currently on day 3 of learning python. Studied all about loops today and solved questions. Took more time to solve questions than understand loops.
-- 27 Aug 2025 :- Recovering from a fever since yesterday. Did two questions yesterday and six today. Also dealing with a headache
-- 28 Aug 2025 :- Still recovering. Did more programs today. Decided to do questions no matter what.
+- Currently learning python
 
 ---
 ## 📝 Note
