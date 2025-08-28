@@ -25,7 +25,6 @@ My goal is to become one of the top Python backend developers in the world, and 
 
 📂 **Code:** [Python-Lessons/Basics/01_Lessons/Day1](Basics/01_Lessons/Day1) [Python-Lessons/Basics/Exercises/Day1](Basics/Exercises/Day1)
 
-
 ### **Day 2 – 24 Aug 2025**
 **Topics Covered**
 - If, Else, Elif statements
@@ -52,7 +51,6 @@ My goal is to become one of the top Python backend developers in the world, and 
 
 📂 **Code:** [Python-Lessons/Basics/01_Lessons/Day2](Basics/01_Lessons/Day2) [Python-Lessons/Basics/Exercises/Day2](Basics/Exercises/Day2)
 
-
 ### **Day 3 – 25 Aug 2025**
 **Topics Covered**
 - Loops (while, for)
@@ -78,7 +76,6 @@ My goal is to become one of the top Python backend developers in the world, and 
 
 📂 **Code:** [Python-Lessons/Basics/01_Lessons/Day3](Basics/01_Lessons/Day3) [Python-Lessons/Basics/Exercises/Day3](Basics/Exercises/Day3)
 
-
 ### **Date - 26 Aug 2025**
 - Sick day! I have a fever and headache today
 - No new topics today
@@ -92,7 +89,6 @@ My goal is to become one of the top Python backend developers in the world, and 
 
 📂 **Code:** [Python-Lessons/Basics/Exercises/randomDays](Basics/Exercises/randomDays)
 
-
 ### **Date - 27 Aug 2025**
 - Still recovering. Did 6 exercises today and revised a little
 - Created a /randomDays/ folder (lazy I know, will change later) which will be used when I only do questions to keep track of days
@@ -104,6 +100,19 @@ My goal is to become one of the top Python backend developers in the world, and 
 4. Print the sum of digits of a number without converting it to a string
 5. WAP to check if a given number is an armstrong number
 6. Write a program to check if a number is a perfect number
+
+📂 **Code:** [Python-Lessons/Basics/Exercises/randomDays](Basics/Exercises/randomDays)
+
+### **Date - 28 Aug 2025**
+- Four more practice questions today
+- I am not recovering because I have to travel an hour to get to college and I need the attendance
+- Even if I don't study anything new, I will solve questions for atleast one hour a day
+
+**Exercises Completed**
+1. Print the factorial of a number using while loop
+2. HCF (Highest Common Factor) of two numbers without using any built-in functions
+3. LCM (Least Common Multiple) of two numbers (without built-in functions)
+4. Find the sum of all perfect numbers between 1 and N
 
 📂 **Code:** [Python-Lessons/Basics/Exercises/randomDays](Basics/Exercises/randomDays)
 
