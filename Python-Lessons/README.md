@@ -126,6 +126,8 @@ My goal is to become one of the top Python backend developers in the world, and 
 2. Print the first N terms of the Fibonacci series
 3. Print the Fibonacci numbers that are even and less than 1000
 
+📂 **Code:** [Python-Lessons/Basics/Exercises/randomDays](Basics/Exercises/randomDays)
+
 ---
 
 ## 🏆 Goal
