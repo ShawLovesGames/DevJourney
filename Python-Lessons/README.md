@@ -116,6 +116,16 @@ My goal is to become one of the top Python backend developers in the world, and 
 
 📂 **Code:** [Python-Lessons/Basics/Exercises/randomDays](Basics/Exercises/randomDays)
 
+### **Date - 29 Aug 2025**
+- Sick day #4. Weekend starts tomorrow, can't wait to learn something new
+- Did a revision today and made a new notes folder to keep simple and clean notes of every topic
+- Solved some questions again
+
+**Exercises Completed**
+1. Print the squares or cubes of numbers from 1 to N based on user needs
+2. Print the first N terms of the Fibonacci series
+3. Print the Fibonacci numbers that are even and less than 1000
+
 ---
 
 ## 🏆 Goal
