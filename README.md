@@ -35,7 +35,8 @@ The goal of this repo is to:
 
 ## 📅 Updates
 
-- Currently learning python
+- Currently learning python to become a backend developer - 23 Aug 2025
+- Started learning JAVA basics for semester exams while continuing python - 30 Aug 2025
 
 ---
 ## 📝 Note

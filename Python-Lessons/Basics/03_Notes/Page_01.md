@@ -33,3 +33,6 @@
     - *Camel Case* Each word, except the first, starts with a capital letter: myAge = 20
     - *Pascal Case* Each word starts with a capital letter: MyFullName = "Akshat Shaw"
     - *Snake Case* Each word is separated by an underscore character: my_full_name = "Akshat Shaw"
+- ##### **Assigning Multiple Values**
+    - We can assign values to multiple variables in one line. Example :- x, y, z = 1, 2, 3
+    - We can also assign the same value to multiple variables in one line. Example :- x = y = z = 5
