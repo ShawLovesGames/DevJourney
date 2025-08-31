@@ -10,7 +10,8 @@ My goal is to become a high skilled developer.
 This repo is organized by programming languages and technologies. Each language or skill will have its own folder, containing code examples, notes, exercises, and related resources.
 
 - **Python-Lessons/** — This folder focuses on Python basics and advanced topics. It has its own dedicated README with more details.
-- *(Other folders to come as I continue learning — like Java, JavaScript, C++, and more)*
+- **JAVA-Lessons/** — This folder focuses on JAVA basics. It has its own dedicated README with more details.
+- *(Other folders to come as I continue learning — like JavaScript, C++, and more)*
 
 ---
 
