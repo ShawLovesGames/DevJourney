@@ -174,6 +174,17 @@ My goal is to become one of the top Python backend developers in the world, and 
 📂 **Code:** [Python-Lessons/Basics/02_Exercises/PracticeOnlyDays/Day5](Basics/02_Exercises/PracticeOnlyDays/Day5)
 📂 **Notes:** [Python-Lessons/Basics/03_Notes](Basics/03_Notes)
 
+### **Day 6 - 01 Sept 2025**
+- Completed four string exercises by myself before moving to lists
+- Mind was totally blank when I was trying to solve questions like palindrome in the start, now these exercises are getting easier and easier
+- Writing cleaner code is the next objective
+
+**Exercises Completed**
+1. Count words with even length in a given string
+2. Compress a string by replacing repeated characters with the character followed by the count
+3. Convert uppercase letters to lowercase and lowercase to uppercase without using the built-in swapcase function
+4. Check if one string is a rotation of another string
+
 ---
 
 ## 🏆 Goal
