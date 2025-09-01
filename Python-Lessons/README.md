@@ -175,7 +175,7 @@ My goal is to become one of the top Python backend developers in the world, and 
 📂 **Notes:** [Python-Lessons/Basics/03_Notes](Basics/03_Notes)
 
 ### **Day 6 - 01 Sept 2025**
-- Completed four string exercises by myself before moving to lists
+- Completed four string exercises by myself
 - Mind was totally blank when I was trying to solve questions like palindrome in the start, now these exercises are getting easier and easier
 - Writing cleaner code is the next objective
 
