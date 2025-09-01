@@ -33,7 +33,9 @@ Still, I’m documenting my Java basics here to keep track of progress.
 
 **Exercises Completed**
 - None because of an personal emergency
-- Plan to do extra on the next day
+- Plan to do extra questions on the next day
+
+📂 **Code:** [JAVA-Lessons/Basics/01_Lessons/Day2](JAVA-Lessons/Basics/01_Lessons/Day2)
 
 ---
 
