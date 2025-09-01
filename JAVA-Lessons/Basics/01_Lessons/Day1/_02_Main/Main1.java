@@ -1,6 +1,6 @@
 // ---Main & Class---
 
-public class _2_Main1 {
+public class Main1 {
     public static void main(String[] args) { 
         System.out.println("public static void main(String[] args){} is the main() method.");
         System.out.println("Any code inside the main() method will be executed.");

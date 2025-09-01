@@ -1,6 +1,6 @@
 // ---Comments in JAVA---
 
-public class _4_Comments {
+public class Comments {
     public static void main(String[] args) {
         System.out.println("Single line comments are written using double forward slash // and multi line comments are written using /* */");
     }

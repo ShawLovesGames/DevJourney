@@ -12,7 +12,8 @@ Still, I’m documenting my Java basics here to keep track of progress.
 **Topics Covered**   
 - Creating and running first Java program (`Hello World`)  
 - Understanding `class` and `main` method  
-- Using `System.out.println()` for output  
+- Using `System.out.println()` for output
+- Using single and multiline comments
 
 **Exercises Completed**
 1. Print a simple message  
@@ -20,6 +21,19 @@ Still, I’m documenting my Java basics here to keep track of progress.
 3. Print two numbers and their sum  
 
 📂 **Code:** [JAVA-Lessons/Basics/01_Lessons/Day1](JAVA-Lessons/Basics/01_Lessons/Day1) [JAVA-Lessons/Basics/02_Exercises/Day1](JAVA-Lessons/Basics/02_Exercises/Day1)
+
+### **Day 2 - 01 Aug 2025**
+**Topics Covered**
+- Variables - Creating, Assigning values, printing
+- Data types - Primitive and Non-primitive
+- Type casting - Widening and Narrowing
+- Operators
+- Strings and methods
+- Math class and methods
+
+**Exercises Completed**
+- None because of an personal emergency
+- Plan to do extra on the next day
 
 ---
 
