@@ -185,6 +185,24 @@ My goal is to become one of the top Python backend developers in the world, and 
 3. Convert uppercase letters to lowercase and lowercase to uppercase without using the built-in swapcase function
 4. Check if one string is a rotation of another string
 
+📂 **Code:** [Python-Lessons/Basics/02_Exercises/PracticeOnlyDays/Day6](Basics/02_Exercises/PracticeOnlyDays/Day6)
+
+### **Day 7 - 02 Sept 2025**
+- Seven more string exercises
+- Starting lists tomorrow
+- Will study some java today
+
+**Exercises Completed**
+1. WAP to remove all spaces from a string
+2. WAP to remove all numbers from a string
+3. WAP to count uppercase and lowercase letters separately
+4. WAP to replace all vowels with an asterisk in a string
+5. WAP to count how many words start with a vowel
+6. WAP to find the first non-repeating character in a string
+7. WAP to reverse the order of words (without using lists)
+
+📂 **Code:** [Python-Lessons/Basics/02_Exercises/PracticeOnlyDays/Day7](Basics/02_Exercises/PracticeOnlyDays/Day7)
+
 ---
 
 ## 🏆 Goal
