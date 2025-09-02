@@ -27,6 +27,9 @@ public class _03_Methods2 {
         // split - Splits the string into arrays based on a given substring.
         String myNames = "Akshat,Sahil,Vasudev";
         String[] arr = myNames.split(","); // IDK how to print the elements of an array yet.
+        for (int i = 0; i < 3; i++) { // Used AI for now.
+            System.out.println(arr[i]);
+        }
         
     }
 }
