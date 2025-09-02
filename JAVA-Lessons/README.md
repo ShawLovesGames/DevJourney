@@ -20,7 +20,7 @@ Still, I’m documenting my Java basics here to keep track of progress.
 2. Print your name and age  
 3. Print two numbers and their sum  
 
-📂 **Code:** [JAVA-Lessons/Basics/01_Lessons/Day1](JAVA-Lessons/Basics/01_Lessons/Day1) [JAVA-Lessons/Basics/02_Exercises/Day1](JAVA-Lessons/Basics/02_Exercises/Day1)
+📂 **Code:** [Basics/01_Lessons/Day1](Basics/01_Lessons/Day1) [Basics/02_Exercises/Day1](Basics/02_Exercises/Day1)
 
 ### **Day 2 - 01 Aug 2025**
 **Topics Covered**
@@ -32,10 +32,15 @@ Still, I’m documenting my Java basics here to keep track of progress.
 - Math class and methods
 
 **Exercises Completed**
-- None because of an personal emergency
-- Plan to do extra questions on the next day
+1. Create a program that stores your name, age, and favorite hobby in variables and prints them in a nice format
+2. Take two numbers (store in variables) and print their sum, difference, product, and quotient
+3. Given two numbers in variables, print the largest and smallest using Math.max() and Math.min()
+4. Store a distance in kilometers, convert it to miles and print the result
+5. Take a number in a variable and print its square root and it raised to the power of 3
+6. Print a random integer between 1 and 10
+7. Store a Celsius temperature and convert it to Fahrenheit
 
-📂 **Code:** [JAVA-Lessons/Basics/01_Lessons/Day2](JAVA-Lessons/Basics/01_Lessons/Day2)
+📂 **Code:** [Basics/01_Lessons/Day2](Basics/01_Lessons/Day2) [Basics/02_Exercises/Day1](Basics/02_Exercises/Day2)
 
 ---
 
