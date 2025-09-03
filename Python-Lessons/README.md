@@ -203,6 +203,19 @@ My goal is to become one of the top Python backend developers in the world, and 
 
 📂 **Code:** [Python-Lessons/Basics/02_Exercises/PracticeOnlyDays/Day7](Basics/02_Exercises/PracticeOnlyDays/Day7)
 
+### **Day 8 - 03 Sept 2025**
+- Five more string questions
+- Thunderstorm in my city so no electricity for 7 hours
+
+**Exercises Completed**
+1. Remove all punctuation from a string
+2. Count consonants in a string
+3. Find the last word in a sentence without .split()
+4. Count how many digits are in a string
+5. Count how many words start and end with the same letter
+
+📂 **Code:** [Python-Lessons/Basics/02_Exercises/PracticeOnlyDays/Day8](Basics/02_Exercises/PracticeOnlyDays/Day8)
+
 ---
 
 ## 🏆 Goal
