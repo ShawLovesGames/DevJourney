@@ -216,6 +216,25 @@ My goal is to become one of the top Python backend developers in the world, and 
 
 📂 **Code:** [Python-Lessons/Basics/02_Exercises/PracticeOnlyDays/Day8](Basics/02_Exercises/PracticeOnlyDays/Day8)
 
+### **Day 9 - 04 Sept 2025**
+- Ten more combined questions from whatever I've learned till now
+- Revision Day
+- I plan to do 30 variations of today's questions tomorrow and study lists
+
+**Exercises Completed**
+1. Count vowels & consonants separately in a string
+2. Replace all digits with # in a string
+3. Reverse each word but keep the word order in a string
+4. Check if a string is a palindrome (case-insensitive)
+5. Count words with even length, ignoring punctuation in a string
+6. Check if a number is prime
+7. WAP to print the Sum of digits of a number
+8. Print the following pattern for n = 4
+9. Print the following pattern for n = 4
+10. Check if one string is a rotation of another string
+
+📂 **Code:** [Python-Lessons/Basics/02_Exercises/PracticeOnlyDays/Day9](Basics/02_Exercises/PracticeOnlyDays/Day9)
+
 ---
 
 ## 🏆 Goal
