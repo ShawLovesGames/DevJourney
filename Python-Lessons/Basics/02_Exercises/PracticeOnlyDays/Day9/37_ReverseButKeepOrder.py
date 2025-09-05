@@ -4,13 +4,13 @@ s = input("Enter a string: ")
 word = ""
 reverse = ""
 for i in s:
-    if i != " ":
+    if i.isalpha():
         word += i
     else:
         for j in word[::-1]:
             reverse += j
             word = ""
-        reverse += " "
+        reverse += i
 for k in word[::-1]:
     reverse += k
 print(reverse)

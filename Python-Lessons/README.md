@@ -219,7 +219,7 @@ My goal is to become one of the top Python backend developers in the world, and 
 ### **Day 9 - 04 Sept 2025**
 - Ten more combined questions from whatever I've learned till now
 - Revision Day
-- I plan to do 30 variations of today's questions tomorrow and study lists
+- I plan to do twenty variations of today's questions
 
 **Exercises Completed**
 1. Count vowels & consonants separately in a string
@@ -229,11 +229,56 @@ My goal is to become one of the top Python backend developers in the world, and 
 5. Count words with even length, ignoring punctuation in a string
 6. Check if a number is prime
 7. WAP to print the Sum of digits of a number
-8. Print the following pattern for n = 4
-9. Print the following pattern for n = 4
+8. Print the following pattern for n = 4 - Triangle
+9. Print the following pattern for n = 4 - Triangle with numbers
 10. Check if one string is a rotation of another string
 
 📂 **Code:** [Python-Lessons/Basics/02_Exercises/PracticeOnlyDays/Day9](Basics/02_Exercises/PracticeOnlyDays/Day9)
+
+### **Day 10 - 05 Sept 2025**
+- Mega Revision Day
+- Twenty Six questions solved
+- First twenty questions are the variations of yesterday's questions
+
+**Exercises Completed**
+1. Count vowels & consonants separately in a string
+    - Count vowels only in the first half of the string and count consonants in the entire string
+    - Count vowels and replace them with * in the output string
+2. Replace all digits with # in a string
+    - Replace digits greater than 5 with #, leave others as is
+    - Replace all non-letters (digits & punctuation) with #
+3. Reverse each word but keep the word order in a string
+    - Reverse only words that start with a vowel
+    - Reverse the order of characters inside every second word only
+4. Check if a string is a palindrome (case-insensitive)
+    - Ignore spaces and punctuation while checking
+    - Check if the first and last words are palindromes
+5. Count words with even length, ignoring punctuation in a string
+    - Count only words with even length and starting with consonant
+    - Count words with even length but replace them with * in the output
+6. Check if a number is prime
+    - Count how many prime numbers are between 1 and n
+    - Check if the sum of the digits of the number is prime
+7. WAP to print the Sum of digits of a number
+    - Sum of only even digits
+    - Sum digits until the sum is a single digit (digital root)
+8. Print the following pattern for n = 4 - Triangle
+    - Reverse Triangle
+    - Use # instead of *
+9. Print the following pattern for n = 4 - Triangle with numbers
+    - Reverse numbers
+    - Print odd numbers only
+10. Check if one string is a rotation of another string
+    - Check if one string is a rotation OR a reverse of another
+    - Check rotation ignoring case and punctuation
+11. Find the longest word in a sentence (no .split())
+12. Find the most frequent character (ignore case and spaces)
+13. Convert even-indexed letters to uppercase, odd to lowercase (ignore spaces for counting)
+14. Keep only the first occurrence of each character
+15. Count words that are palindromes in a string
+16. Reverse only words that contain digits
+
+📂 **Code:** [Python-Lessons/Basics/02_Exercises/PracticeOnlyDays/Day10](Basics/02_Exercises/PracticeOnlyDays/Day10)
 
 ---
 
