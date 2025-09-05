@@ -1,12 +1,12 @@
 # ---Nested if statements---
 
-num1 = 1
-num2 = 2
-num3 = 3
+num1 = int(input("Enter the first number: "))
+num2 = int(input("Enter the second number: "))
+num3 = int(input("Enter the third number: "))
 if num1 < num2:
     if num2 < num3: # if statement inside another if statement is valid.
-        print("Num3 is greatest.")
+        print("The third number is greatest.")
     else:
-        print("Num3 is not the greatest.")
+        print("The third number is not the greatest.")
 else:
-    print("Num2 is not greater than num1")
+    print("The second number is not greater than the first number.")

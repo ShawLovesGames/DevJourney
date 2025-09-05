@@ -19,4 +19,4 @@ print(s[6:]) # Output :- World!
 # Python allows negative indexing.
 print(s[-12:-7])
 # Note :- The last character of a string has index -1.
-# Note :- The last index (in this case - -7) is excluded.
+# Note :- The last index (in this case :- -7) is excluded.
