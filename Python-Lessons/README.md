@@ -280,6 +280,20 @@ My goal is to become one of the top Python backend developers in the world, and 
 
 📂 **Code:** [Python-Lessons/Basics/02_Exercises/PracticeOnlyDays/Day10](Basics/02_Exercises/PracticeOnlyDays/Day10)
 
+### **Day 11 - 06 Sept 2025**
+- Nine more questions before I jump into lists
+
+**Exercises Completed**
+1. Check if a number is an Armstrong number
+2. Check if a number is perfect
+3. LCM and GCD - Find both for two numbers
+4. Print the Fibonacci sequence up to a given limit
+5. Print the Nth Fibonacci number
+6. Right-Aligned Triangle (n rows, * aligned to the right)
+7. Pyramid of Stars (center aligned)
+8. Sum of Digits in a String
+9. Replace Digits with Word in a String - '2' become "two"
+
 ---
 
 ## 🏆 Goal
