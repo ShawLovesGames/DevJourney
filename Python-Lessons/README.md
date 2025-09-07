@@ -102,6 +102,29 @@ My goal is to become one of the top Python backend developers in the world, and 
 
 📂 **Code:** [Python-Lessons/Basics/01_Lessons/Day4](Basics/01_Lessons/Day4) [Python-Lessons/Basics/02_Exercises/Day4](Basics/02_Exercises/Day4)
 
+### **Day 5 - 07 Sept 2025**
+**Topics Covered**
+- Lists (Basics)
+- Accessing list items
+- Membership operator usage with lists
+- Changing the list items
+- Adding Methods
+- Removing Methods
+- Looping through a list
+- List Comprehension
+- Sorting lists
+- Copying lists
+- List Methods
+
+**Exercises Completed**
+1. Take a list of integers and print the sum of all elements
+2. Given a list of words, print only the words that have more than 4 letters
+3. Replace all even numbers in a list with 0
+4. Find and print the maximum number in a list without using max()
+5. Write a program to reverse a list without using [::-1]
+
+📂 **Code:** [Python-Lessons/Basics/01_Lessons/Day5](Basics/01_Lessons/Day5) [Python-Lessons/Basics/02_Exercises/Day5](Basics/02_Exercises/Day5)
+
 ---
 
 ## 🏋️ Practice-Only Days Log
@@ -293,6 +316,8 @@ My goal is to become one of the top Python backend developers in the world, and 
 7. Pyramid of Stars (center aligned)
 8. Sum of Digits in a String
 9. Replace Digits with Word in a String - '2' become "two"
+
+📂 **Code:** [Python-Lessons/Basics/02_Exercises/PracticeOnlyDays/Day11](Basics/02_Exercises/PracticeOnlyDays/Day11)
 
 ---
 

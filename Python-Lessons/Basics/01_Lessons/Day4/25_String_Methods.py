@@ -1,3 +1,5 @@
+# ---String Method Reference---
+
 # I will use this file as a reference for string methods. I copied this from w3schools.com.
 
 '''
