@@ -319,6 +319,19 @@ My goal is to become one of the top Python backend developers in the world, and 
 
 📂 **Code:** [Python-Lessons/Basics/02_Exercises/PracticeOnlyDays/Day11](Basics/02_Exercises/PracticeOnlyDays/Day11)
 
+### **Day 12 - 08 Sept 2025**
+- List exercises
+- Only basic ones yet
+
+**Exercises Completed**
+1. Take a list of integers and print the sum of all even numbers
+2. Given a list of strings, print the string with the maximum length
+3. Given a list with duplicates, create a new list with unique elements
+4. Given two lists, print the elements common to both lists
+5. Convert a list of words into a single string separated by spaces
+
+📂 **Code:** [Python-Lessons/Basics/02_Exercises/PracticeOnlyDays/Day12](Basics/02_Exercises/PracticeOnlyDays/Day12)
+
 ---
 
 ## 🏆 Goal
