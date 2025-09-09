@@ -332,6 +332,18 @@ My goal is to become one of the top Python backend developers in the world, and 
 
 📂 **Code:** [Python-Lessons/Basics/02_Exercises/PracticeOnlyDays/Day12](Basics/02_Exercises/PracticeOnlyDays/Day12)
 
+### **Day 13 - 09 Sept 2025**
+- Five more list exercises
+
+**Exercises Completed**
+1. Replace all negative numbers in a list with 0
+2. Find the smallest number in a list without using min()
+3. Reverse a list using a loop (not .reverse() or slicing)
+4. Print only the items at even indexes
+5. Merge two lists into a single list without .extend()
+
+📂 **Code:** [Python-Lessons/Basics/02_Exercises/PracticeOnlyDays/Day13](Basics/02_Exercises/PracticeOnlyDays/Day13)
+
 ---
 
 ## 🏆 Goal
