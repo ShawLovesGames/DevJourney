@@ -344,6 +344,19 @@ My goal is to become one of the top Python backend developers in the world, and 
 
 📂 **Code:** [Python-Lessons/Basics/02_Exercises/PracticeOnlyDays/Day13](Basics/02_Exercises/PracticeOnlyDays/Day13)
 
+### **Day 14 - 10 Sept 2025**
+- Five more list exercises
+- Pace has been slow due to preparation of an NPTEL DBMS course exam
+
+**Exercises Completed**
+1. Count how many times a given element appears in a list (without .count())
+2. Print the second largest element in a list (without sort() or max())
+3. Create a list of squares of numbers from 1 to 10 using a loop
+4. Remove all occurrences of a given element from a list without .remove()
+5. Swap the first and last elements of a list
+
+📂 **Code:** [Python-Lessons/Basics/02_Exercises/PracticeOnlyDays/Day14](Basics/02_Exercises/PracticeOnlyDays/Day14)
+
 ---
 
 ## 🏆 Goal
