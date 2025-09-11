@@ -136,7 +136,7 @@ My goal is to become one of the top Python backend developers in the world, and 
 **Exercises Completed**
 1. TBD
 
-📂 **Code:** [Python-Lessons/Basics/01_Lessons/Day5](Basics/01_Lessons/Day5) [Python-Lessons/Basics/02_Exercises/Day5](Basics/02_Exercises/Day5)
+📂 **Code:** [Python-Lessons/Basics/01_Lessons/Day5](Basics/01_Lessons/Day6) [Python-Lessons/Basics/02_Exercises/Day5](Basics/02_Exercises/Day6)
 
 ---
 
