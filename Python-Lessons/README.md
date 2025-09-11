@@ -125,6 +125,19 @@ My goal is to become one of the top Python backend developers in the world, and 
 
 📂 **Code:** [Python-Lessons/Basics/01_Lessons/Day5](Basics/01_Lessons/Day5) [Python-Lessons/Basics/02_Exercises/Day5](Basics/02_Exercises/Day5)
 
+### **Day 6 - 11 Sept 2025**
+**Topics Covered**
+- Note :- Day 6 is divided in two parts due to a college assignment
+- Part I :-
+    - Tuples (Basics)
+- Part II :-
+    - TBD
+
+**Exercises Completed**
+1. TBD
+
+📂 **Code:** [Python-Lessons/Basics/01_Lessons/Day5](Basics/01_Lessons/Day5) [Python-Lessons/Basics/02_Exercises/Day5](Basics/02_Exercises/Day5)
+
 ---
 
 ## 🏋️ Practice-Only Days Log

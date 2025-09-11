@@ -20,6 +20,7 @@ My_List2 = ["Akshat", "Shaw", 20, "Male", True, 3.14, True] # List containing va
 print(My_List2)
 
 print(type(My_List), type(My_List2)) # Lists are objects of "list" data type.
+
 print(len(My_List), len(My_List2)) # We can use len() to print the number of items in a list.
 
 # ---List Constructor---
