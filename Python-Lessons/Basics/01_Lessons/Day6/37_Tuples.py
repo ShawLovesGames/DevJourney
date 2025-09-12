@@ -18,9 +18,7 @@ print(my_tuple)
 
 new_tuple = ("Akshat", 3.14, 20, "Python", 3.14) # Tuple containing values of different data types and also a duplicate value.
 print(new_tuple)
-
 print(type(new_tuple)) # Tuples are objects of "tuple" data type.
-
 print(len(new_tuple)) # Printing the length of the tuple by using len() function.
 
 # ---Tuple Constructor---
