@@ -131,12 +131,22 @@ My goal is to become one of the top Python backend developers in the world, and 
 - Part I :-
     - Tuples (Basics)
 - Part II :-
-    - TBD
+    - Accessing tuple items
+    - Membership operator usage with tuples
+    - Updating a tuple using list() constructor
+    - Unpacking tuples
+    - Looping through a tuple
+    - Joining and multiplying tuples
+    - Tuple methods
 
 **Exercises Completed**
-1. TBD
+1. Create a tuple with numbers 1 through 5. Print the third element
+2. Given t = (10, 20, 30, 40), use unpacking to store 10 in a, 20 in b, and the rest in a list rest
+3. Create a tuple with duplicate values. Print how many times a given element appears (without using .count())
+4. Concatenate two tuples (1,2,3) and (4,5) and then multiply the result by 2
+5. Write a loop that prints all elements of a tuple in reverse order (without slicing)
 
-📂 **Code:** [Python-Lessons/Basics/01_Lessons/Day5](Basics/01_Lessons/Day6) [Python-Lessons/Basics/02_Exercises/Day5](Basics/02_Exercises/Day6)
+📂 **Code:** [Python-Lessons/Basics/01_Lessons/Day6](Basics/01_Lessons/Day6) [Python-Lessons/Basics/02_Exercises/Day6](Basics/02_Exercises/Day6)
 
 ---
 
