@@ -2,9 +2,7 @@
 
 lst = [0, 0, 1, 2, 0, 3, 0]
 
-for i in lst:
-    if i == 0:
-        lst.append(0)
-        lst.remove(0)
-    
-print(lst)
+new_list = [i for i in lst if i != 0]
+new_list.extend([0] * lst.count(0))
+
+print(new_list)
