@@ -380,6 +380,21 @@ My goal is to become one of the top Python backend developers in the world, and 
 
 📂 **Code:** [Python-Lessons/Basics/02_Exercises/PracticeOnlyDays/Day14](Basics/02_Exercises/PracticeOnlyDays/Day14)
 
+### **Day 15 - 13 Sept 2025**
+- Seven more exercise questions
+- Mixed list and tuple question
+
+**Exercises Completed**
+1. Given a list of integers, create a new list with all numbers greater than the average of the list
+2. Write a program to move all zeros to the end of a list without changing the order of non-zero elements
+3. Write a program to split a list into two halves and print both halves
+4. Create a tuple with string elements, then find the longest string in the tuple
+5. Write a program to count how many distinct elements are in a tuple
+6. Given a tuple of numbers, create a new tuple containing only the prime numbers
+7. Swap the first and last elements of a tuple (tuples are immutable)
+
+📂 **Code:** [Python-Lessons/Basics/02_Exercises/PracticeOnlyDays/Day15](Basics/02_Exercises/PracticeOnlyDays/Day15)
+
 ---
 
 ## 🏆 Goal

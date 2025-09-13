@@ -1,4 +1,4 @@
-# ---Swap the first and last elements of a tuple (tricky since tuples are immutable)---
+# ---Swap the first and last elements of a tuple (tuples are immutable)---
 
 tup = (1, 2, 3, 4, 5)
 
