@@ -395,6 +395,18 @@ My goal is to become one of the top Python backend developers in the world, and 
 
 📂 **Code:** [Python-Lessons/Basics/02_Exercises/PracticeOnlyDays/Day15](Basics/02_Exercises/PracticeOnlyDays/Day15)
 
+### **Day 16 - 14 Sept 2025**
+- Five more mixed tuple, list and string questions
+
+**Exercises Completed**
+1. Write a program that rotates a list to the right by 2 positions
+2. Given a tuple of integers, print a new tuple containing only the even numbers
+3. Take a string input and print the word with the maximum number of vowels
+4. Without using multiplication (*), compute the product of all numbers in a list
+5. Write a program to check if a tuple is a palindrome
+
+📂 **Code:** [Python-Lessons/Basics/02_Exercises/PracticeOnlyDays/Day16](Basics/02_Exercises/PracticeOnlyDays/Day16)
+
 ---
 
 ## 🏆 Goal
