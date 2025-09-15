@@ -24,7 +24,7 @@ public class _01_Variables {
         num = 15;
         System.out.println(num);
 
-        // We can declare multiple variables of the same time in one line.
+        // We can declare multiple variables of the same type in one line.
         int x = 5, y = 10, z = 15;
         System.out.println(x);
         System.out.println(y);
