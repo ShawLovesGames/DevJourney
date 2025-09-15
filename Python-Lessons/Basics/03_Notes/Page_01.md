@@ -36,3 +36,20 @@
 - ##### **Assigning Multiple Values**
     - We can assign values to multiple variables in one line. Example :- x, y, z = 1, 2, 3
     - We can also assign the same value to multiple variables in one line. Example :- x = y = z = 5
+- ##### **Output Variables**
+    - The print() function is commonly used to output variables. Example :- print(a)
+    - We can separate multiple variables using comma to print multiple variables with one print statement. Example :- print(a, b)
+    - We can use the + operator to combine two variables. For strings this is concatenation and for numbers this acts as the addition operator. Example :- print(a + b)
+    - The comma adds a space between variable values. Example :- print(x, y) | Output :- 5 5
+- ##### **Global variables**
+    - We can define variables outside of a function (in the main code) and use them in the function
+    - If we create a variables of the same name inside a function, the variable inside the funtion will be local and it can only be used inside the function
+    - To create global variables inside function we can use the global keyword.
+    - We can also use the global keyword inside a function to change the value of an existing global variable.
+
+### **Data Types**
+- Variables can store data of different types. Different types of data can do different things
+- The data types built-in python are :- str, bool, int, float, complex, list, tuple, range, dict, set, frozenset, bytes, bytearray, memoryview, NoneType
+- Python allows explicit type casting ; We can change the data types manually
+- Unlike other programming languages we do not have to explicitly state the data type before creating a variable
+- Python sets the data type by itself
