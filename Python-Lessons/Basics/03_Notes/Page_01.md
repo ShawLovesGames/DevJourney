@@ -53,3 +53,11 @@
 - Python allows explicit type casting ; We can change the data types manually
 - Unlike other programming languages we do not have to explicitly state the data type before creating a variable
 - Python sets the data type by itself
+- Other than built-in data types there are user defined data types or reference data types
+
+### **Strings**
+- Strings are collections of characters. They are surrounded by either single or double qoutes
+- Like many popular programming languages strings are arrays of unicode characters but,
+- Python does not have a character data type and a single character is a string of length of 1
+- Strings are immutable and every function used to manipulate a string returns a new string and does not effect the existing string
+- Strings are indexed and with indexes we can slice strings. The first character has index 0
