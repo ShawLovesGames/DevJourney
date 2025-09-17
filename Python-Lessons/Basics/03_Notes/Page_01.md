@@ -61,3 +61,10 @@
 - Python does not have a character data type and a single character is a string of length of 1
 - Strings are immutable and every function used to manipulate a string returns a new string and does not effect the existing string
 - Strings are indexed and with indexes we can slice strings. The first character has index 0
+
+### **Lists**
+- Lists are used to store multiple items in a single variable. It is created using square brackets
+- Lists are ordered, therefore they have a defined order and the order will not change
+- List items are mutable. The items in the list can be changed, added or removed even after it has been created
+- Lists can store multiple data types. A string, an integer, a boolean value or a decimal number can all be stored in one list
+- Lists are indexed and the first item will have index 0
