@@ -1,8 +1,9 @@
 # ---Tuples in Python---
 
 '''
-    Tuples, like lists, are used to store multiple items in a single variable
-    A tuple is created using round brackets
+    Tuples, like lists, are used to store multiple items in a single variable.
+    The biggest difference between a tuple and a list is that tuples are immutable while lists are mutable.
+    A tuple is created using round brackets.
 '''
 
 my_tuple = (1, 2, 3)
