@@ -68,3 +68,10 @@
 - List items are mutable. The items in the list can be changed, added or removed even after it has been created
 - Lists can store multiple data types. A string, an integer, a boolean value or a decimal number can all be stored in one list
 - Lists are indexed and the first item will have index 0
+
+### **Tuples**
+- Tuples are also used to store multiple items in a single variable. It is created using round brackets
+- Tuples are immutable. The items in the tuple never change unless we use the list() constructor trick
+- They are indexed like lists and the first item will have index 0
+- They are ordered like lists and the defined order cannot change
+- Tuples can also store items of different data types
