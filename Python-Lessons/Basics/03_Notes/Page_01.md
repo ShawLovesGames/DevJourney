@@ -75,3 +75,10 @@
 - They are indexed like lists and the first item will have index 0
 - They are ordered like lists and the defined order cannot change
 - Tuples can also store items of different data types
+
+### **Sets**
+- Sets are also used to store multiple items in a single variable. It is created using curly brackets
+- Set items are unordered, they do not have a defined order. We cannot refer to set items using their index
+- Set items are unchangeable, we cannot change the items but we can remove existing items or add new items
+- Sets do not allow duplicates
+- Sets can also store items of different data types
