@@ -82,3 +82,9 @@
 - Set items are unchangeable, we cannot change the items but we can remove existing items or add new items
 - Sets do not allow duplicates
 - Sets can also store items of different data types
+
+### **Dictionaries**
+- Dictionaries are used to store data values in key:value pairs, they are created using curly brackets
+- Dictionaries are ordered since python version 3.7. Earlier they were undeordered
+- Dictionaries are changeable
+- Dictionaries do not allow duplicates
