@@ -88,3 +88,13 @@
 - Dictionaries are ordered since python version 3.7. Earlier they were undeordered
 - Dictionaries are changeable
 - Dictionaries do not allow duplicates
+
+### **Functions**
+- Functions are blocks of code that run when they are called
+- We can pass data, knows as parameters, into a function
+- Functions can return data as a result
+- Functions are created using the def keyword
+- ##### **Parameters**
+    - A parameter is the variable listed inside the parentheses in the function definition
+- ##### **Arguments**
+    - An argument is the value that is sent to the function when it is called
