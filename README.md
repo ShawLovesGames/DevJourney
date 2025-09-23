@@ -38,6 +38,7 @@ The goal of this repo is to:
 
 - Currently learning python to become a backend developer - 23 Aug 2025
 - Started learning JAVA basics for semester exams while continuing python - 30 Aug 2025
+- Been only updating notes since last couple of days due to preparation for the NPTEL DBMS exam - 23 Sept 2025
 
 ---
 ## 📝 Note

@@ -8,3 +8,5 @@ joke = pyjokes.get_joke()
 # ---Print the joke---
 print("Here's a joke for you:")
 print(joke)
+
+# Modules in detail later in my course. I am aware how important modules are.
