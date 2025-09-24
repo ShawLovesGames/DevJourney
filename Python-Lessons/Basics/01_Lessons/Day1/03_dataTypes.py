@@ -1,4 +1,4 @@
-# ---Learning Variables---
+# ---Variables---
 
 # Variables are names of memory location used to store a value and access the value to perform various operations or tasks.
 name = "Akshat Shaw" # Name variable containing String value

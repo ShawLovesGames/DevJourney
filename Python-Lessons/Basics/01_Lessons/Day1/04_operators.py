@@ -1,3 +1,5 @@
+# ---Operators---
+
 # Operators are used to perform operations on two or more operands
 
 # Types of Operators in python: (I copied these from w3 schools, studied about them and then wrote their usages myself)

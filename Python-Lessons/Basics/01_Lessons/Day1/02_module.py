@@ -1,3 +1,5 @@
+# ---Module---
+
 # Modules are code written by other programmers which we can use in our programs to make life easy.
 
 import pyjokes # I used "pip install pyjokes" to install pyjokes module.
