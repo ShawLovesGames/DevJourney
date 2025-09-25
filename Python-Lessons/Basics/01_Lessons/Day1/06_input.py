@@ -1,4 +1,5 @@
 # ---Input function---
+
 name = input("Enter you name: ") # Input function is used to take input from the user.
 print("Hello " + name)
 
