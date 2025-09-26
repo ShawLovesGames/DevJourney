@@ -1,4 +1,4 @@
-# ---Ternary Operators in python (also called Condtional Expressions)---
+# ---Ternary Operators (also called Condtional Expressions)---
 
 num1 = 1
 num2 = 2
