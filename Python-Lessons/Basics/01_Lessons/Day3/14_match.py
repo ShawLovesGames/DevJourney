@@ -1,4 +1,6 @@
-# ---The match statement selects one of many code blocks to be executed---
+# ---Match Statement---
+
+# The match statement selects one of many code blocks to be executed
 
 month = int(input("Enter the month number (1-12): "))
 day = int(input("Enter the number of day of the week (1 to 7): "))
