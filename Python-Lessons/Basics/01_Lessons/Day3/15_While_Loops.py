@@ -1,4 +1,5 @@
 # ---While Loop---
+
 # The while loop is used to execute a set of statements as long as a condition is true.
 
 num = 1
