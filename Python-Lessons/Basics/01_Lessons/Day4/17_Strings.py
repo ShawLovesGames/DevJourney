@@ -12,4 +12,4 @@ print(s)
 # We can use len() function to get the length of the string
 print(len(s)) # Output :- 6
 
-#***** Note :- STRINGS ARE IMMUTABLE
+#***** Note :- STRINGS ARE IMMUTABLE.
