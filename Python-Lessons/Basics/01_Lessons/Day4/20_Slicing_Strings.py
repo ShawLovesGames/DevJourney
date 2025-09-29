@@ -1,4 +1,4 @@
-#** ---String slicing--- 
+#** ---String Slicing--- 
 
 # We can slice strings to print a range of characters from the string.
 s = "Hello World!"
