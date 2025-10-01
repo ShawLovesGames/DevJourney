@@ -1,4 +1,4 @@
-# ---String format---
+# ---String formatting---
 
 # F-strings was introduced in python 3.6.
 # We can put a f in front of the string literal and use curly brackets {} with variables and other operations inside.
