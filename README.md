@@ -39,12 +39,13 @@ The goal of this repo is to:
 - Currently learning python to become a backend developer - 23 Aug 2025
 - Started learning JAVA basics for semester exams while continuing python - 30 Aug 2025
 - Been only updating notes since last couple of days due to preparation for the NPTEL DBMS exam - 23 Sept 2025
+- Update! Spent almost an entire year by working in WIPRO to financially support my family. My focus did shift away from maintaining and updating this repository but now I will continue my developer journey with a clearer goal while still working a job. - 25th Sept 2026
 
 ---
 ## 📝 Note
 
 - I do not copy any code from any source or AI when I am learning a language. Every line of code and comment is written by me by myself.
-- I do all exercises by myself and only sometimes ask either my seniors or chatGPT to explain me the logic when I feel stuck. After understanding the logic I write the syntax myself to implement what I understood.
+- I do all exercises by myself and only sometimes ask either my seniors or AI models to explain me the logic when I feel stuck. After understanding the logic I write the syntax myself to implement what I understood.
 
 ---
 
